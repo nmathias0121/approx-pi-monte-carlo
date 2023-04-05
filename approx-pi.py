@@ -3,7 +3,7 @@ import numpy
 import math
 
 # test on different sample sizes & find the most accurate one
-sample_size_lst = range(1000, 6000, 1000)
+sample_size_lst = range(10000, 60000, 10000)
 
 diff_dict = {}
 pi_approx_dict = {}
